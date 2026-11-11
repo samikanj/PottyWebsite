@@ -1,0 +1,7 @@
+{
+  "name": "potty-validation",
+  "private": true,
+  "description": "Automatic checks for the rules in content.js (developer.validation.rules).",
+  "scripts": { "validate": "node validate.js" },
+  "devDependencies": { "playwright": "^1.48.0" }
+}
